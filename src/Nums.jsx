@@ -8,7 +8,7 @@ const Nums = () => {
 		<div>
 			Номер{num}
 			<Link className="back-btn" to="/">
-				Назад!
+				Назад!!!
 			</Link>
 		</div>
 	);
