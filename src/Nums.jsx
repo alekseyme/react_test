@@ -7,7 +7,7 @@ const Nums = () => {
 	return (
 		<div>
 			Номер{num}
-			Какое то изменение с main ветки
+			qwdqwd <br></br>Какое то изменение с main ветки
 			<Link className="back-btn" to="/">
 				Назад!!!
 			</Link>
