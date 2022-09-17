@@ -9,7 +9,7 @@ const Nums = () => {
 			Номер{num}
 			Какое то изменение с main ветки
 			<Link className="back-btn" to="/">
-				Назад!!
+				Назад!!!
 			</Link>
 		</div>
 	);
