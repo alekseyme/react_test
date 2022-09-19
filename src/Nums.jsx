@@ -8,7 +8,7 @@ const Nums = () => {
 		<div>
 			Номер{num}десктоп гитхаб <br></br>Какое то изменение с main ветки
 			<Link className="back-btn" to="/">
-				Назад!!!
+				Назад
 			</Link>
 		</div>
 	);
